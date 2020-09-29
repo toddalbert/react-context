@@ -8,6 +8,7 @@ function Home() {
     <Jumbotron fluid>
       <Container>
         <Welcome />
+        <p>React Context is amazing!</p>
       </Container>
     </Jumbotron>
   )
